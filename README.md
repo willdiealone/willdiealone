@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 <p>
-I am a beginner developer on the .NET platform. My GitHub will gradually be filled with projects over time as I gain more experience. I hope that one day I will be able to join one of the FAANGMULA companies!
+I am a beginner developer on the .NET platform. My GitHub will gradually be filled with projects over time as I gain more experience! 
 </p>
 
 - 🔭 Currently working on the Reactivities project.
