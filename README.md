@@ -11,10 +11,11 @@ I am a beginner developer on the .NET platform. My GitHub will gradually be fill
 - 📫 You can reach me via email: ghostamane@mail.ru.
 
 
-<h1 align="center">How to become a SeniorDev in 4 months? <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="🌈"></h1>
+<h1 align="center">
+  <p> How to become a SeniorDev in 4 months? </p>
+  <p> <img src="200w.gif" width="400px" > </p>
+  
+</h1>
 
-AnswerThisQestion = (why?: string) =>{
+[Answer this question](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
-}
