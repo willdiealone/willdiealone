@@ -13,7 +13,7 @@ I am a beginner developer on the .NET platform. My GitHub will gradually be fill
 
 <h1 align="center">
   <p> How to become a SeniorDev in 4 months? </p>
-  <p> <img src="200w.gif" width="400px" > </p>
+  <p> <img src="giphy.gif" width="400px" > </p>
   
 </h1>
 
