@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, guys! 👋</h1>
 <p>
-I am a beginner developer on the GO language. My GitHub will gradually be filled with projects over time as I gain more experience! 
+I am a beginner .Net developer. My GitHub will gradually be filled with projects over time as I gain more experience! 
 </p>
 
 - 🔭 Currently working on the Reactivities project.
