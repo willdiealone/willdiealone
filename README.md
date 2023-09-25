@@ -15,4 +15,4 @@ I am a beginner .Net developer. My GitHub will gradually be filled with projects
   <p> One day I will be SeniorDev </p>
 </h1>
 
-  <p>     <img src="giphy.gif" width="700px" > </p>
+  <p align="center" > <img src="giphy.gif" width="700px" > </p>
