@@ -12,7 +12,7 @@ I am a beginner .Net developer. My GitHub will gradually be filled with projects
 
 
 <h1 align="center">
-  <p> One day I will be SeniorDev  </p>
+  <p> One day I will be SeniorDev </p>
 </h1>
 
-  <p> <img src="giphy.gif" width="700px" > </p>
+  <p>     <img src="giphy.gif" width="700px" > </p>
