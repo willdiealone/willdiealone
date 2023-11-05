@@ -5,7 +5,7 @@
 I am a beginner .Net developer. My GitHub will gradually be filled with projects over time as I gain more experience! 
 </p>
 
-- 🔭 Currently working on the WeatherForecastForYou project.
+- 🔭 Currently working on my pet project.
 - 🌱 I study new technologies and programming languages.
 - 👯 Open to collaborate on interesting projects.
 - 📫 You can reach me via email: ghostamane@mail.ru.
