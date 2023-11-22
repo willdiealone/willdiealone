@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!)
 <p>
 I am a beginner .Net developer. My GitHub will gradually be filled with projects over time as I gain more experience! 
@@ -17,8 +18,3 @@ I am a beginner .Net developer. My GitHub will gradually be filled with projects
 <h3 align="left">Support:</h3>
 <p><a href="https://yoomoney.ru/to/4100118408605024"> <img align="left" src="https://yoomoney.ru/i/shop/iomoney_logo_white_example.png" height="50" width="210" alt="https://yoomoney.ru/to/4100118408605024" /></a></p><br><br>
 
-<h1 align="center">
-  <p> One day I will be SeniorDev </p>
-</h1>
-
-  <p align="center" > <img src="giphy.gif" width="700px" > </p>
